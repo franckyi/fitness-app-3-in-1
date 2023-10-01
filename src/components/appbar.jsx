@@ -4,9 +4,7 @@ function AppBar() {
   return (
     <nav>
       <Link to="/stopwatch">Stopwatch</Link>
-      <Link to="/timer">Timer</Link>
-      <Link to="/music">Music</Link>
-      <Link to="/options">Options</Link>
+      <Link to="/about">About</Link>
     </nav>
   );
 }
